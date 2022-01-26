@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java, Python, HTML, JavaScript, C#, and how to effectively use GitHub 😂🤷‍♂️
 - 💞️ I’m looking to collaborate on small projects, indie ideas, and scripts for the lazy
 - 
- "Laziness is the catalyst of human evolution." 
-                           -The Lazy General
+- “People started growing crops because going hunting without knowing if you’d catch anything was a pain. People dug wells because going all the way to the river was a pain. Laziness is the mother of human progress.” 
+- – Ikta Solork, The Lazy General
 
 <!---
 NirvanaAchieved/NirvanaAchieved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

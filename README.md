@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NirvanaAchieved
-- 👀 I’m interested in coding, games (FPS), anime (action/fantasy/adventure/MMORPG), audiobooks (LitRPG), stocks/options/cryptos, and a million other things
-- 🌱 I’m currently learning Java, Python, HTML, JavaScript, C#, and how to effectively use GitHub 😂🤷‍♂️
-- 💞️ I’m looking to collaborate on small projects, indie ideas, and scripts for the lazy
+- 👋 Hi, I’m Deon
+- 👀 I’m interested in coding, games (FPS), watching shows and movies (action/fantasy/adventure/MMORPG), audiobooks (LitRPG), and a million other things
+- 🌱 I’m currently learning Java, Python, Go, HTML, JavaScript, and Spring Boot
+- 💞️ I’m looking to collaborate on small projects, training, and scripting
 - 
 - “People started growing crops because going hunting without knowing if you’d catch anything was a pain. People dug wells because going all the way to the river was a pain. Laziness is the mother of human progress.” 
 - – Ikta Solork, The Lazy General

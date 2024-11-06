@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deon
-- 👀 I’m interested in software development, SecDevOps, and AI/ML
+- 👀 I’m interested in software development, DevSecOps, and AI/ML
 - 
 - “People started growing crops because going hunting without knowing if you’d catch anything was a pain. People dug wells because going all the way to the river was a pain. Laziness is the mother of human progress.” 
 - – Ikta Solork, The Lazy General
